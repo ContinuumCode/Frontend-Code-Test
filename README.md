@@ -14,27 +14,18 @@
 
 
 
-### Exercise One:
-
-Replicate this layout and design through only HTML and CSS (No JS). Use of HTML5 and CSS3 standards are a plus:
-
-![Exercise One](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/layout-task.jpg)
-
-
-
-
-### Exercise Two:
+### Code Test:
 
 Recreate a single page with the following requirements:
 
-1.	Header with Nav, Logo, Contact links and Search Bar (This does not need to be functional)
+1.	Header with Nav, Logo, Contact links and Search Bar (This does not need to be functional). On mobile, the navigation should drop into a mobile menu and be clickable to show the menu using javascript/jQuery.
 2.	Banner Slider – Please use a jQuery slider such as slick slider here. You will be tested on how clean your code functions and reads. A minimum of 3 images are required. Any images can be used.
 3.	Services Blocks x 2 (Buttons do not need to be functional and don’t need to redirect.
 4.	Logo/Portfolio Slider – Please use Javascript or jQuery here and it must show 4 images when loaded. You can also use sliders such as slick slider here. Any images can be used.
 5.	News Tiles – These should be replicated as seen in the screenshot. When scaling to mobile, they should stack.
 
 Please see concept below or view in concept folder:
-![Exercise Two](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/frontend-dev-task.jpg)
+![Exercise](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/frontend-dev-task.jpg)
  
 ### Requirements
 
@@ -42,7 +33,7 @@ Please see concept below or view in concept folder:
 2.	The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below. Everything should be responsive.
 3.	Validate all the code written using https://validator.w3.org/
 4.	Make sure to focus on writing clean code and reusable code.
-5.	When submitting the task please create a separate folder for each exercise in the format of: exercise-one and include any files and assets needed.
+5.	When submitting the task please create a separate folder in the format of: exercise-one and include any files and assets needed.
 6.	If you get stuck at any part don't worry and get through as much of it as you can. This test is to see how you perform with certain tasks and to find out what skill level you are at. If you can’t complete something, move on to the next part and come back to it later. If you don’t complete it by the submission time, that’s ok. Do as much as you can.
 
 
@@ -61,7 +52,7 @@ Note: this is optional, so don’t feel like you need to do them if you run out 
 
 Once you have completed the exercise you can email a) a link to your GitHub repo or b) zip of the exercise.
 
-You can forward the zip file to eosullivan@wearecontinuum.com and cclancy@wearecontinuum.com.
+You can forward the zip file.
 
 
 ### Browser Support
