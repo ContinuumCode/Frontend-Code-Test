@@ -3,7 +3,7 @@
 
 ## Brief
 
-1.	The assessment is split into two exercises, try to fully complete each part but if you get stuck move on to the next part.
+1.	Try to fully complete the assessment but if you get stuck move on to the next part.
 2.	The framework to be used is Bootstrap Version 4 (https://getbootstrap.com/)
 3.	All icons used should be from font awesome (https://fontawesome.com/)
 4.	In terms of fonts feel free to use the font of your choice in the exercises.
