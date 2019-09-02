@@ -18,8 +18,7 @@
 
 Replicate this layout and design through only HTML and CSS (No JS). Use of HTML5 and CSS3 standards are a plus:
 
-
-https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/layout-task.jpg
+![Exercise One](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/layout-task.jpg)
 
 
 
@@ -35,7 +34,7 @@ Recreate a single page with the following requirements:
 •	News Tiles – These should be replicated as seen in the screenshot. When scaling to mobile, they should stack.
 
 Please see concept below or view in concept folder:
-https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/frontend-dev-task.jpg
+![Exercise Two](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/frontend-dev-task.jpg)
  
 ### Requirements
 
