@@ -1,7 +1,7 @@
-Continuum - Frontend Coding Assessment
+# Continuum - Frontend Coding Assessment
 
 
-Brief
+## Brief
 
 1.	The assessment is split into two exercises, try to fully complete each part but if you get stuck move on to the next part.
 2.	The framework to be used is Bootstrap Version 4 (https://getbootstrap.com/)
@@ -14,7 +14,7 @@ Brief
 
 
 
-Exercise One:
+### Exercise One:
 
 Replicate this layout and design through only HTML and CSS (No JS). Use of HTML5 and CSS3 standards are a plus:
 
@@ -24,22 +24,9 @@ Replicate this layout and design through only HTML and CSS (No JS). Use of HTML5
 
 
 
-Exercise Two:
+### Exercise Two:
 
-Recreate a single HTML page with the following requirements:
-
-
-
-
-
-
-
-
-
-
-Exercise Two:
-
-Replicate this layout and design from the concept through the use of HTML5, CSS3 and Javscript/jQuery:
+Recreate a single page with the following requirements:
 
 •	Header with Nav, Logo, Contact links and Search Bar (This does not need to be functional)
 •	Banner Slider – Please use a jQuery slider such as slick slider here. You will be tested on how clean your code functions and reads. A minimum of 3 images are required. Any images can be used.
@@ -49,7 +36,7 @@ Replicate this layout and design from the concept through the use of HTML5, CSS3
 
 Please see concept below or view in concept folder:
  
-Requirements
+### Requirements
 
 1.	All HTML, CSS, & Javascript should be well commented and comments should be written in a non-technical manner.
 2.	The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below. Everything should be responsive.
@@ -59,7 +46,7 @@ Requirements
 6.	If you get stuck at any part don't worry and get through as much of it as you can. This test is to see how you perform with certain tasks and to find out what skill level you are at. If you can’t complete something, move on to the next part and come back to it later. If you don’t complete it by the submission time, that’s ok. Do as much as you can.
 
 
-Bonus
+### Bonus
 
 If you would like to add some extra spice to the completed exercise try some of the below suggestions.
 Note: this is optional, so don’t feel like you need to do them if you run out of time.
@@ -70,14 +57,14 @@ Note: this is optional, so don’t feel like you need to do them if you run out 
 4.	Use GIT to show your commits and your approach to the test. Please link to your repository.
 
 
-Submission
+### Submission
 
 Once you have completed the exercise you can email a) a link to your GitHub repo or b) zip of the exercise.
 
 You can forward the zip file to eosullivan@wearecontinuum.com and cclancy@wearecontinuum.com.
 
 
-Browser Support
+### Browser Support
 The assignment should work in the following browsers.
 
 1. Google Chrome
@@ -92,5 +79,5 @@ Devices to optimise test for:
 2.	Samsung Galaxy 8, 8+, 9, 9+, 10, 10+
 3.	iPad, Generic Tablet (1200x800 px)
 
-Finally best of luck!
+## Finally best of luck!
 
