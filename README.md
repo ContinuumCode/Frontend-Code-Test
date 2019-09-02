@@ -27,11 +27,11 @@ Replicate this layout and design through only HTML and CSS (No JS). Use of HTML5
 
 Recreate a single page with the following requirements:
 
-•	Header with Nav, Logo, Contact links and Search Bar (This does not need to be functional)
-•	Banner Slider – Please use a jQuery slider such as slick slider here. You will be tested on how clean your code functions and reads. A minimum of 3 images are required. Any images can be used.
-•	Services Blocks x 2 (Buttons do not need to be functional and don’t need to redirect.
-•	Logo/Portfolio Slider – Please use Javascript or jQuery here and it must show 4 images when loaded. You can also use sliders such as slick slider here. Any images can be used.
-•	News Tiles – These should be replicated as seen in the screenshot. When scaling to mobile, they should stack.
+1.	Header with Nav, Logo, Contact links and Search Bar (This does not need to be functional)
+2.	Banner Slider – Please use a jQuery slider such as slick slider here. You will be tested on how clean your code functions and reads. A minimum of 3 images are required. Any images can be used.
+3.	Services Blocks x 2 (Buttons do not need to be functional and don’t need to redirect.
+4.	Logo/Portfolio Slider – Please use Javascript or jQuery here and it must show 4 images when loaded. You can also use sliders such as slick slider here. Any images can be used.
+5.	News Tiles – These should be replicated as seen in the screenshot. When scaling to mobile, they should stack.
 
 Please see concept below or view in concept folder:
 ![Exercise Two](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/frontend-dev-task.jpg)
