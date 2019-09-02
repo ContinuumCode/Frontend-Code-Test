@@ -69,5 +69,3 @@ Devices to optimise test for:
 2.	Samsung Galaxy 8, 8+, 9, 9+, 10, 10+
 3.	iPad, Generic Tablet (1200x800 px)
 
-## Finally best of luck!
-
