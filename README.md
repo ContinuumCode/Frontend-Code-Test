@@ -41,8 +41,7 @@ Please see concept below or view in concept folder:
 
 ### Bonus
 
-If you would like to add some extra spice to the completed exercise try some of the below suggestions.
-Note: this is optional, so don’t feel like you need to do them if you run out of time.
+Use any of the following below:
 
 1.	Use a build tool to create the end solutions (e.g. gulp/grunt)
 2.	Write the CSS using SCSS (Please include your source folder with all .scss files)
