@@ -10,7 +10,7 @@
 5.	Where Javascript is required you are free to write in vanilla Javascript or use jQuery.
 6.	The completed code should match the concepts below as much as possible, we understand there may be differences between the font used in the concept and the font file and this is ok.
 7.	If you have any questions about the assessment please email us before you start.
-8.	We would like to see how long it takes to complete the assessment so please use this timing tool (https://toggl.com/) and record your time for each exercise. Please send us back a screenshot of your dashboard time.
+8.	We would like to see how long it takes to complete the assessment so please use this timing tool (https://toggl.com/) and record your time for each exercise. Please send us back a screenshot of your dashboard time. ## You have 4 hours to complete this task in full.
 
 
 
