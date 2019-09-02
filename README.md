@@ -51,9 +51,7 @@ Use any of the following below:
 
 ### Submission
 
-Once you have completed the exercise you can email a) a link to your GitHub repo or b) zip of the exercise.
-
-You can forward the zip file.
+Once you have completed the exercise you can email us a link to your GitHub repo and a zip of the exercise.
 
 
 ### Browser Support
