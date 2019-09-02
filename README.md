@@ -12,7 +12,7 @@
 7.	If you have any questions about the assessment please email us before you start.
 8.	We would like to see how long it takes to complete the assessment so please use this timing tool (https://toggl.com/) and record your time for each exercise. Please send us back a screenshot of your dashboard time. 
 
-### You have 4 hours to complete this task in full.
+#### You have 4 hours to complete this task in full.
 
 
 
